@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverMissionsTests", "MarsRoverTests\RoverMissionsTests.csproj", "{E76D5099-811D-431B-89CD-78D3B52702AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverGui", "RoverGui\RoverGui.csproj", "{CE479430-9BE5-4DE2-91FD-C9433C38C6E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverMissions", "RoverMissions\RoverMissions.csproj", "{2F3745B7-7EC1-4915-8263-E85FD0A11E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E76D5099-811D-431B-89CD-78D3B52702AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76D5099-811D-431B-89CD-78D3B52702AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76D5099-811D-431B-89CD-78D3B52702AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76D5099-811D-431B-89CD-78D3B52702AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE479430-9BE5-4DE2-91FD-C9433C38C6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE479430-9BE5-4DE2-91FD-C9433C38C6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE479430-9BE5-4DE2-91FD-C9433C38C6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE479430-9BE5-4DE2-91FD-C9433C38C6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3745B7-7EC1-4915-8263-E85FD0A11E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3745B7-7EC1-4915-8263-E85FD0A11E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3745B7-7EC1-4915-8263-E85FD0A11E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3745B7-7EC1-4915-8263-E85FD0A11E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
